@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Category.init(categori:ads:):Model.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageVC.viewDidLoad():MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FavouriteVC.viewDidLoad():FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "forFavorite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BuySailVC.viewDidLoad():BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "se">
+            </PersistentString>
+            <PersistentString
+               value = "cell?.informationLbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.informationRequest():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adsId">
+            </PersistentString>
+            <PersistentString
+               value = "tableIndex">
+            </PersistentString>
+            <PersistentString
+               value = "collectionIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BuySailVC.names.modify:BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "names">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddAnythingVC.pickerView(_:didSelectRow:inComponent:):AddAnythingVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellName.firrstNameLbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterDialogVC.pickerView(_:numberOfRowsInComponent:):FilterDialogVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "return names.count">
+            </PersistentString>
+            <PersistentString
+               value = "spaceTxtField.isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in NetworkingService.requestGet(urlString:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in NetworkingService.requestGetFavourite(urlString:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FavAd">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BuySailVC.tableView(_:cellForRowAt:):BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resultName">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "resultArr.count ">
+            </PersistentString>
+            <PersistentString
+               value = "saleSumma">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.adsId.setter:DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adsId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in DetailVC.informationRequest():DetailVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in FavouriteVC.viewWillAppear(_:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "forFavorite">
+            </PersistentString>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddSubCategoriesVC.didGetNotification(_:):AddSubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.subNameLbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainPageVC.viewDidLoad():MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "section.count">
+            </PersistentString>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+            <PersistentString
+               value = "adsWith.title">
+            </PersistentString>
+            <PersistentString
+               value = "categoris">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in NetworkingService.requestGetFavourite(urlString:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayAds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FavouriteVC.viewWillAppear(_:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favAds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in BuySailVC.viewDidLoad():BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resultArr.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailVC.favouriteBtn(_:):DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "forFavourite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoriesVC.subCategoriNames():SubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subNamesArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageVC.tableView(_:didSelectRowAt:):MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.nameLable?.text">
+            </PersistentString>
+            <PersistentString
+               value = "cell.sectionText.text">
+            </PersistentString>
+            <PersistentString
+               value = "vc.textForPage?.text">
+            </PersistentString>
+            <PersistentString
+               value = "cell.sectionModel?.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.tableView(_:numberOfRowsInSection:):DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchResult.init(res:):Model.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mainCategoryID">
+            </PersistentString>
+            <PersistentString
+               value = "price">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddAnythingVC.addItems():AddAnythingVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexSub">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SubCategoriesVC.viewDidLoad():SubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subCategoryId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Ads.init(ads:):Model.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.value">
+            </PersistentString>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+            <PersistentString
+               value = "userID">
+            </PersistentString>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+            <PersistentString
+               value = "categoryID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.favouriteBtn(_:):DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adsId">
+            </PersistentString>
+            <PersistentString
+               value = "generalAdsId">
+            </PersistentString>
+            <PersistentString
+               value = "generalAdsId[collectionIndex]">
+            </PersistentString>
+            <PersistentString
+               value = "subIdArr">
+            </PersistentString>
+            <PersistentString
+               value = "collectionIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteVC.viewWillAppear(_:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favAds.count">
+            </PersistentString>
+            <PersistentString
+               value = "forFavorite?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.vehicleItemsInCell():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.countryName.jsonKey">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.subGoToDetail():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parseIdArray">
+            </PersistentString>
+            <PersistentString
+               value = "realEstateIndex">
+            </PersistentString>
+            <PersistentString
+               value = "indexSub">
+            </PersistentString>
+            <PersistentString
+               value = "subIdArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoriesVC.init(coder:):SubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddNewExchangeTableViewCell.addExchangeText(_:):AddNewExchangeTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.tableView(_:cellForRowAt:):DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageArr">
+            </PersistentString>
+            <PersistentString
+               value = "items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddSubCategoriesVC.tableView(_:didSelectRowAt:):AddSubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subNamesArr[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BestExchange.init(best:):Model.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "buy">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RealEstateVC.subCate():RealEstateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteVC.collectionView(_:didSelectItemAt:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageTableViewCell.collectionView(_:cellForItemAt:):MainPageTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.aboutLbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteVC.collectionView(_:numberOfItemsInSection:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "forFavorite">
+            </PersistentString>
+            <PersistentString
+               value = "favAds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddNewExchangeVC.createNewExchange(_:):AddNewExchangeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell?.addPriceTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkingService.requestPostFavourite(url:body:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RealEstateVC.collectionView(_:didSelectItemAt:):RealEstateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subId">
+            </PersistentString>
+            <PersistentString
+               value = "adsId">
+            </PersistentString>
+            <PersistentString
+               value = "indexOfTableViewCell">
+            </PersistentString>
+            <PersistentString
+               value = "subIdArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CategoriesVC.viewDidLoad():CategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mainCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.collectionView(_:numberOfItemsInSection:):DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterDialogVC.pickerView(_:didSelectRow:inComponent:):FilterDialogVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellName.aboutLbl.text">
+            </PersistentString>
+            <PersistentString
+               value = "names[row]">
+            </PersistentString>
+            <PersistentString
+               value = "indexOfFirstTableViewCell">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageVC.selectCell(cell:indexPath:):MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adsId">
+            </PersistentString>
+            <PersistentString
+               value = "cell.sectionText.text">
+            </PersistentString>
+            <PersistentString
+               value = "item.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in MainPageVC.viewDidLoad():MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adsWith">
+            </PersistentString>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in sendPostBuySail(url:body:):BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items">
+            </PersistentString>
+            <PersistentString
+               value = "saleSumma">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.viewDidLoad():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoriesVC.tableView(_:didSelectRowAt:):SubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "subCategoryIdArray">
+            </PersistentString>
+            <PersistentString
+               value = "indexForSub">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageTableViewCell.configure(section:):MainPageTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sectionModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoriesVC.index.setter:SubCategoriesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in NetworkingService.requestGet(urlString:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+            <PersistentString
+               value = "adsWithCategori">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailVC.viewDidLoad():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.itemsInCell():DetailVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NetworkingService.requestGetFavourite(urlString:completion:):NetworkingService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BuySailVC.tableView(_:numberOfRowsInSection:):BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "name?.res.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkingService.requestGetFavourite(urlString:completion:):NetworkingService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DetailVC.real():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "realEstateIndex">
+            </PersistentString>
+            <PersistentString
+               value = "collectionIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in BuySailVC.sendPostBuySail(url:body:complition:):BuySailVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AddAnythingVC.viewDidLoad():AddAnythingVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "name">
+            </PersistentString>
+            <PersistentString
+               value = "cell.subNameLbl.text">
+            </PersistentString>
+            <PersistentString
+               value = " pageName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RealEstateVC.viewDidLoad():RealEstateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "realImage.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.loginBtn(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "emailTxt.text = &quot;&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailVC.subGoToDetail():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "realEstate">
+            </PersistentString>
+            <PersistentString
+               value = "imageArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RealEstateVC.subCate():RealEstateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subId.count">
+            </PersistentString>
+            <PersistentString
+               value = "indexForCategoris">
+            </PersistentString>
+            <PersistentString
+               value = "subCategoryIdArray">
+            </PersistentString>
+            <PersistentString
+               value = "indexForSub">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in NetworkingService.requestGetMainCategori(urlString:completion:):NetworkingService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in BuySailVC.getJSON(url:body:):BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "names">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageVC.tableView(_:numberOfRowsInSection:):MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sectionModel.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sendPostBuySail(url:body:):BuySailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell?.informationLbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailVC.informationRequest():DetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr">
+            </PersistentString>
+            <PersistentString
+               value = "imageArr">
+            </PersistentString>
+            <PersistentString
+               value = "items">
+            </PersistentString>
+            <PersistentString
+               value = "image">
+            </PersistentString>
+            <PersistentString
+               value = "collectionIndex">
+            </PersistentString>
+            <PersistentString
+               value = "detailArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageVC.tableView(_:cellForRowAt:):MainPageVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.sectionText.text">
+            </PersistentString>
+            <PersistentString
+               value = "categoris![indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteVC.collectionView(_:cellForItemAt:):FavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favAds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
